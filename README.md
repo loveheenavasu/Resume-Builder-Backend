@@ -8,7 +8,7 @@
 - run project `yarn start` or `npm start`
 
 
-### Seader full Run Automatically After run the project
+### Seader will Run Automatically After running the project
 
 ## Default Admin Login
 ### user
